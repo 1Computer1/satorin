@@ -1,0 +1,24 @@
+{
+  "name": "satorin",
+  "version": "0.0.1",
+  "description": "Parser",
+  "main": "./src/index.js",
+  "author": "1Computer",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1Computer1/satorin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1Computer1/satorin/issues"
+  },
+  "homepage": "https://github.com/1Computer1/satorin"
+}
